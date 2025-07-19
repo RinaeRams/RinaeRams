@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @RinaeRams
-- 👀 I’m interested in Coding,creating websites,applications and to become a software developer.
-- 🌱 I’m currently learning at the University of Mpumalanga doing a Diploma in Information Communication Technology course and doing my third year here.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : contact me using my email address: innocentrinae4@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👨‍💻 Rinae Ramadi – Crafting Digital Impact from Code to Cloud
 
-<!---
-RinaeRams/RinaeRams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm **Rinae Innocent Ramadi**, a passionate ICT developer blending creativity, precision, and practical problem-solving. From low-code speed with Mendix to full-stack power using JavaScript, React, and Node.js – I build user-focused solutions that matter.
+
+🎯 **Currently:** Advancing through an **Advanced Diploma in ICT** at the University of Mpumalanga  
+🚀 **Tech Arsenal:** Java | Kotlin | Python | React | Node.js | Mendix | Firebase | SQL  
+🧠 **Obsessed With:** Scalable apps, smart UI/UX, cyber defense, and connecting systems that _just work_  
+🌍 **Where I've Contributed:** University portals, freelance automation tools, phishing awareness kits, and efficient backend systems
+
+---
+
+## 🛠️ Featured Projects
+
+- 🔧 **Low-code Business Apps** — Delivered 15%+ operational boost using Mendix + database integrations  
+- 🌐 **University Web Portals** — Built and maintained 10+ portals with 98% uptime  
+- 🛡️ **Cybersecurity Toolkit** — Co-created phishing awareness pack for SMEs at Maish Hackathon
+
+---
+
+## 📫 Let’s connect
+
+- 📮 Email: innocentrinae4@gmail.com | 222001313@ump.ac.za  
+- 📱 WhatsApp: +27 66 148 1164  
+- 🌟 _Always open to collabs, freelance gigs, or ideas that stretch the boundaries of tech_
+
+---
+
+> “Code is my canvas, the cloud is my palette, and innovation is my favorite color.”
